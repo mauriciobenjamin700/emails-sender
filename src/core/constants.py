@@ -1,0 +1,4 @@
+SMTP_SERVER = "localhost"
+SMTP_PORT = 1025
+FROM_EMAIL = "ORIGIN@gmail.com"
+PASSWORD = "PASSWORD"

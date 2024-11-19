@@ -1,0 +1,7 @@
+myhostname = localhost
+mydomain = localdomain
+myorigin = /etc/mailname
+inet_interfaces = all
+inet_protocols = ipv4
+mydestination = $myhostname, localhost.$mydomain, localhost, $mydomain
+relayhost =pode
